@@ -625,7 +625,7 @@
                     <i class="fab fa-telegram-plane" style="font-size: 1.5rem; color: #54a9eb;"></i>
                     <span style="font-weight: 700; color: #1e3b5c;">Отправить результат</span>
                 </div>
-                <a href="https://t.me/seshhollowbones" class="telegram-btn" target="_blank">
+                <a href="https://t.me/+rAlUh9piT0dmYjli" class="telegram-btn" target="_blank">
                     <i class="fab fa-telegram"></i> TELEGRAM
                 </a>
             </div>
